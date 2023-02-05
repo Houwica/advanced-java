@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T08:58:46.138Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.5.3" etag="HmGROjeOoWl_8BKpvgD5" type="github"><diagram id="hzxE8fLb_W1gxeveGqqu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-05T09:03:36.599Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YRzqIRTr0g_Yis0Fm0hy" version="20.5.3" type="github">
+  <diagram id="hzxE8fLb_W1gxeveGqqu" name="第 1 页">
+    <mxGraphModel dx="808" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1XO23-QyrrQ45zaQdxyX-5" value="微服务网关开通日志服务" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260.00000000000045" y="520" width="369.99999999999955" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO23-QyrrQ45zaQdxyX-6" value="微服务网关" style="swimlane;startSize=20;html=1;" vertex="1" parent="1XO23-QyrrQ45zaQdxyX-5">
+          <mxGeometry y="20" width="129.99999999999955" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO23-QyrrQ45zaQdxyX-9" value="登陆租户是否开通日志服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1XO23-QyrrQ45zaQdxyX-6">
+          <mxGeometry x="20" y="45" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO23-QyrrQ45zaQdxyX-7" value="翼起来平台" style="swimlane;startSize=20;html=1;" vertex="1" parent="1XO23-QyrrQ45zaQdxyX-5">
+          <mxGeometry x="129.99999999999955" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="1XO23-QyrrQ45zaQdxyX-8" value="日志服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="1XO23-QyrrQ45zaQdxyX-5">
+          <mxGeometry x="249.99999999999955" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
